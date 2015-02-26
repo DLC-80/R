@@ -1,2 +1,2 @@
 # R
-Learning R Language
+Learning R Language using Coursera courses.
