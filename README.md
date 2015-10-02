@@ -1,2 +1,2 @@
 # R
-Learning R Language using Coursera courses.
+### R Language scripts for GenData.
