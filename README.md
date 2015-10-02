@@ -1,2 +1,2 @@
 # R
-### R Language scripts for GenData.
+### R language scripts for genetic data.
